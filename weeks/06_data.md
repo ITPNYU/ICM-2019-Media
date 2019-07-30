@@ -7,15 +7,24 @@
 * Does the past predict the future?
 * Even as coders, to what extent are we able to be the authors of how we use data to understand and shape the world?
 
-### Background Reading
-* [Is Facebook a platform or a publisher? Why does it matter?](https://www.theguardian.com/technology/2018/jul/02/facebook-mark-zuckerberg-platform-publisher-lawsuit)
-* [What Information is "Personally Identifiable"?](https://www.eff.org/deeplinks/2009/09/what-information-personally-identifiable) by Seth Schoen
+### Visions of Present and Future
 * [Side-by-side images expose a glitch in Google’s maps](https://qz.com/982709/google-maps-is-making-entire-communities-invisible-the-consequences-are-worrying/)
 * [YouTube’s Product Chief on Online Radicalization and Algorithmic Rabbit Holes](https://www.nytimes.com/2019/03/29/technology/youtube-online-extremism.html?partner=rss&emc=rss)
-* [Sentencing Guideline](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/) by Sam Corbett-Davies, Emma Pierson, Avi Feller and, Sharad Goel (Washington Post)
 * [Human Contact is Now a Luxury Good](https://www.nytimes.com/2019/03/23/sunday-review/human-contact-luxury-screens.html)
-* [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api) by Jer Thorp
-* [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/) by Kate Crawford
+* [Climate Chaos is Coming](https://www.nytimes.com/interactive/2019/04/10/magazine/climate-change-pinkertons.html)
+
+### More to consider...
+#### Responsibility and Bias
+   * [Is Facebook a platform or a publisher? Why does it matter?](https://www.theguardian.com/technology/2018/jul/02/facebook-mark-zuckerberg-platform-publisher-lawsuit)
+   * [The End of Theory](https://www.wired.com/2008/06/pb-theory/)
+   * [The Numbers Don't Speak for Themselves](https://bookbook.pubpub.org/pub/6ui5n4vo) by Catherine D'Ignazio and Lauren Klein
+   * [Predicting Recidivism in Crime](https://www.washingtonpost.com/news/monkey-cage/wp/2016/10/17/can-an-algorithm-be-racist-our-analysis-is-more-cautious-than-propublicas/) by Sam Corbett-Davies, Emma Pierson, Avi Feller and, Sharad Goel (Washington Post)
+#### Privacy and Surveillance
+   * [What Information is "Personally Identifiable"?](https://www.eff.org/deeplinks/2009/09/what-information-personally-identifiable) by Seth Schoen
+   * [The Anxieties of Big Data](http://thenewinquiry.com/essays/the-anxieties-of-big-data/) by Kate Crawford
+#### Data Art Practice
+   * [Data v. Information](http://eleven.fibreculturejournal.org/fcj-067-art-against-information-case-studies-in-data-practice/)
+   * [Art and the API](http://blog.blprnt.com/blog/blprnt/art-and-the-api) by Jer Thorp
 
 ### Data, APIs, and JSON
 * [10.1: Introduction to Data and APIs in JavaScript - video tutorial](https://youtu.be/rJaXOFfwGVw?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)

@@ -1,6 +1,6 @@
 # Sound: Synthesis
 
-### Readings
+### Readings and Videos
 * [Do-A-Deer](https://www.youtube.com/watch?v=drnBMAEA3AM)
 * [Solfege Tutorial](https://www.jonbjorkmusic.com/tutorials) | [Video](https://www.youtube.com/watch?v=mEopSLv5oas)
 

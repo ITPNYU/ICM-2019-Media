@@ -6,7 +6,7 @@
 Can we analyze our way to good music?
 
 ### Readings
-* [The Science of Pop Music](https://www.dailymotion.com/video/x6fsdpg)
+* [The Science of Pop Music](https://www.dailymotion.com/video/x6fsdpg) | [Transcript](https://subsaga.com/bbc/documentaries/music/2017/the-secret-science-of-pop.html)
 * [Why Some Songs Make You Cry](https://www.npr.org/2012/02/13/146818461/the-ballad-of-the-tearful-why-some-songs-make-you-cry?ps=mh_frhdl2)
 * [Measuring the Evolution of Contemporary Western Popular Music](https://www.nature.com/articles/srep00521): Abstract and Introduction
 
