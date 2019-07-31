@@ -1,5 +1,5 @@
 # Section Info
-* [Lisa](sections/01_MimiO.md)
+* [Lisa](sections/01_Lisa.md)
 * [Allison](sections/02_Allison.md)
 * [Cassie](sections/03_Cassie.md)
 * [Dano](sections/04_Dano.md)
