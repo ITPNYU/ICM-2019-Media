@@ -3,7 +3,7 @@
 * Lisa Jamhoury, email
 * Time
 * Room
-* [Homework Wiki](https://github.com/shiffman/ICM-Code-2019/wiki/Homework-Lisa)
+* [Homework Wiki](https://github.com/shiffman/ICM-2019-Media/wiki/Homework-Lisa)
 * [Office Hours]()
 
 ## Dates
