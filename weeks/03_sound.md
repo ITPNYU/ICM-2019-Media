@@ -7,7 +7,9 @@ Can we analyze our way to good music?
 
 ### Readings
 * [The Science of Pop Music](https://www.dailymotion.com/video/x6fsdpg) | [Transcript](https://subsaga.com/bbc/documentaries/music/2017/the-secret-science-of-pop.html)
-* [Why Some Songs Make You Cry](https://www.npr.org/2012/02/13/146818461/the-ballad-of-the-tearful-why-some-songs-make-you-cry?ps=mh_frhdl2)
+
+#### Extra
+* [Problems with FFT](http://sites.music.columbia.edu/cmc/MusicAndComputers/chapter3/03_05.php)
 * [Measuring the Evolution of Contemporary Western Popular Music](https://www.nature.com/articles/srep00521): Abstract and Introduction
 
 ### Video Tutorials
@@ -22,12 +24,6 @@ Can we analyze our way to good music?
 * [17.11: Sound Visualization: Frequency Analysis with FFT - video tutorial](https://www.youtube.com/watch?v=2O3nm0Nvbi4&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=11)
 
 ### Code
-* [p5.js editor: Load and Play Sound](https://editor.p5js.org/p5/sketches/H1aXNl1X_m)
-* [p5.js editor: Manipulate Sound](https://editor.p5js.org/p5/sketches/rJQxX4l1QOX)
-* [p5.js editor: Amplitude Analysis](https://editor.p5js.org/p5/sketches/S1EgmNgJXuQ)
-* [p5.js editor: Live Input](https://editor.p5js.org/p5/sketches/By-NEeymdm)
-* [p5.js editor: Mic Threshold](https://editor.p5js.org/p5/sketches/H17EElkXOX)
-* [p5.js editor: FFT Spectrum](https://editor.p5js.org/p5/sketches/HJzEEly7dm)
 * [Code for above video tutorials](https://github.com/CodingTrain/website/tree/master/Tutorials/P5JS/p5.js_sound)
 * [Chapter 20 (sound) from Learning Processing ported to p5.js](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp20_sound)
 

@@ -11,9 +11,9 @@ To what extent can we deconstruct language and put it back together again?
 * [Introduction to Markov Chains and Ngrams](https://www.youtube.com/watch?v=v4kL0OHuxXs)
 
 ### Code
-* Frankenstein String manipulation example
-* Super Simple Word Counting example
-* [Super Simple Markov Chain](https://medium.com/@alexkrameris/markov-chain-implementation-in-javascript-a698f371d66f)
+* Basic String Manipulation | [Code](https://editor.p5js.org/icm4.0/sketches/cgHx2OeKd)
+* Word Counting | [Code](https://editor.p5js.org/icm4.0/sketches/-mE9aOLiU)
+* Simple Markov Chain | [Explanation](https://medium.com/@alexkrameris/markov-chain-implementation-in-javascript-a698f371d66f) | [Code](https://editor.p5js.org/icm4.0/sketches/gqA1THrae)
 
 ### Going further
 * [Coding Challenge: Word Counting](https://www.youtube.com/watch?v=unm0BLor8aE) | [Code](https://github.com/shiffman/A2Z-F17/tree/master/week5-analysis/01_concordance)

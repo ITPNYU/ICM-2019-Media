@@ -1,14 +1,15 @@
 
-# Pixels: One at a time
+# Introduction to ICM: Media
+
+### Question
+Why are we interested in computing media?
+
+# Pixels: Pixels as Data
 
 *Some of the videos in this section were created 2-3 years ago. They use different editors for p5.js. All of the concepts should still apply?*
 
 ### Question
 Can computers be a more impartial judge of beauty?
-
-### Reading
-* [Make your pictures beautiful with a touch of deep learning magic](https://towardsdatascience.com/make-your-pictures-beautiful-with-a-touch-of-machine-learning-magic-31672daa3032) v. [The Mona Lisa](https://en.wikipedia.org/wiki/Mona_Lisa)
-* [Computational Color](http://printingcode.runemadsen.com/lecture-color/) | [Rothko's Cat](https://editor.p5js.org/icm4.0/sketches/QhaSfqTDZ) | [Josef and The Amazing Technicolor Dreamcoat](https://editor.p5js.org/icm4.0/sketches/0dU1IiYo7)
 
 ### Video Tutorials
 #### Basics
@@ -23,10 +24,6 @@ Can computers be a more impartial judge of beauty?
 * [11.2: Video Photobooth / Muybridge Style Animation - video tutorial](https://youtu.be/oLiaUEKsRws?list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig)
 
 ###  Code
-* [p5.js editor: loading and playing video](https://editor.p5js.org/p5/sketches/S14fEgym_m)
-* [p5.js editor: video canvas](https://editor.p5js.org/p5/sketches/r1SMNxJXOm)
-* [p5.js editor: video pixels](https://editor.p5js.org/p5/sketches/SkUzVg17uQ)
-* [p5.js editor: video capture](https://editor.p5js.org/p5/sketches/BkwMNe1mOm)
 * [Code for above video tutorials](https://github.com/CodingTrain/website/tree/master/Tutorials/P5JS/p5.js_video)
 * [Chapter 15 (images and pixels) from Learning Processing ported to p5.js](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp15_images_pixels)
 * [Chapter 16 (video) from Learning Processing ported to p5.js](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp16_video)
