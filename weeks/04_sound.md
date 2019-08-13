@@ -19,7 +19,8 @@
 * [Framecount Drum](https://editor.p5js.org/icm4.0/sketches/jfekXn-px)
 * [Framecount Drum with Shifting Syncopation](https://editor.p5js.org/icm4.0/sketches/elIT5rHVV)
 * [Building a Polyrhythm](https://editor.p5js.org/icm4.0/sketches/LMUYZNBNj)
-* [Geometry as Rhythm](https://www.youtube.com/watch?v=MwKtgDNyGYk) | [Geometry as Rhythm](https://editor.p5js.org/icm4.0/sketches/uryD8XmJD) versus [Peaux from Pleiades by Iannis Xenakis](https://youtu.be/dqtFGaHcWRk?t=1920)
+* [Geometry as Rhythm](https://www.youtube.com/watch?v=MwKtgDNyGYk) | [Geometry as Rhythm](https://editor.p5js.org/icm4.0/sketches/uryD8XmJD)
+
 #### Sound Effects and Post-Processing
 * [SoundRecorder()](http://p5js.org/reference/#/p5.SoundRecorder) | [Record and Loop](https://editor.p5js.org/icm4.0/sketches/8-VXVgaJO)
 * [17.5: Adding Sound Effects - video tutorial](https://youtu.be/40Me1-yAtTc?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
