@@ -14,7 +14,7 @@
 #### Generating Pitch and Rhythm
 * [17.6: Sound Synthesis - video tutorial](https://youtu.be/Bk8rLzzSink?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW) | [Code](https://editor.p5js.org/p5/sketches/S1xN4x1muQ)
 * [Ear training interface](https://editor.p5js.org/icm4.0/sketches/ugARgFTL7)
-* [Noisy Melody Maker](https://editor.p5js.org/icm4.0/sketches/mpq_6qLVe) | [noise()](https://p5js.org/reference/#/p5/noise) | [tutorial](https://www.youtube.com/watch?v=Qf4dIN99e2w)
+* [Random Melody](https://editor.p5js.org/icm4.0/sketches/ZKT1AJH7b) | [Diatonic Melody](https://editor.p5js.org/icm4.0/sketches/mpq_6qLVe) | [noise()](https://p5js.org/reference/#/p5/noise) | [tutorial](https://www.youtube.com/watch?v=Qf4dIN99e2w)
 #### Building Rhythms
 * [Framecount Drum](https://editor.p5js.org/icm4.0/sketches/jfekXn-px)
 * [Framecount Drum with Shifting Syncopation](https://editor.p5js.org/icm4.0/sketches/elIT5rHVV)
