@@ -5,6 +5,7 @@
 
 ### Reading
 * [Make your pictures beautiful with a touch of deep learning magic](https://towardsdatascience.com/make-your-pictures-beautiful-with-a-touch-of-machine-learning-magic-31672daa3032) v. [The Mona Lisa](https://en.wikipedia.org/wiki/Mona_Lisa)
+* [Introduction to Neural Networks and Pixel Analysis](https://www.youtube.com/watch?v=aircAruvnKk) (20 minutes, but be prepared to spend an hour. Don't try to watch on 2x speed.)
 * [Computational Color](http://printingcode.runemadsen.com/lecture-color/) (Don't worry about Rune.js example code.)
 
 ### Examples
