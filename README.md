@@ -12,7 +12,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media: Code
 
 ## Section Info
 * [Lisa](sections/01_Lisa.md) | [Homework](https://github.com/shiffman/ICM-2019-Code/wiki/Homework-Lisa)
-* [Allison](sections/02_Allison.md) | [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-2019-Code/wiki/Homework-Allison)
+* [Allison](sections/02_Allison.md) | [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-2019-Media/wiki/Homework-Allison)
 * [Mimi Y.](sections/03_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2019-Media/wiki/Homework-MimiY-03)
 * [Mimi Y.](sections/04_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2019-Media/wiki/Homework-MimiY-04)
 * [Dano](sections/05_Dano.md) | [Homework](https://github.com/ITPNYU/ICM-2019-Code/wiki/Homework-Dano)
