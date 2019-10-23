@@ -4,7 +4,7 @@
 * Wednesday, 9am - 11:30am
 * 370 Jay Street, Room 408
 * [Homework Wiki](https://github.com/ITPNYU/ICM-2019-Media/wiki/Homework-Lisa)
-* [Office Hours]()
+* [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUlFdHBUdGtNZlpEfGRlZmF1bHR8NGM3YjcyZWMxYWNkZDc1M2YxMTE5MjFjNWU5ODVkMjY)
 
 ## Dates
 
