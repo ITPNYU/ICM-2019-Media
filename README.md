@@ -1,5 +1,5 @@
 # ICM-2019-Media
-Syllabus for ITP Foundation Course Introduction to Computational Media: Code
+Syllabus for ITP Foundation Course Introduction to Computational Media: Media
 
 ## Syllabus Overview
 * 1 -- [Pixels](weeks/01_pixels.md)
