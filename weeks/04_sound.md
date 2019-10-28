@@ -3,12 +3,11 @@
 ### Readings and Videos
 * [Do-A-Deer](https://www.youtube.com/watch?v=drnBMAEA3AM)
 * [Solfege Tutorial](https://www.jonbjorkmusic.com/tutorials) | [Video](https://www.youtube.com/watch?v=mEopSLv5oas)
-* [Why Some Songs Make You Cry](https://www.npr.org/2012/02/13/146818461/the-ballad-of-the-tearful-why-some-songs-make-you-cry?ps=mh_frhdl2) | [Someone Like You](https://www.youtube.com/watch?v=jD9dr2ZRm9A) (@1:20)
-* [Drumming by Steve Reich](https://www.youtube.com/watch?v=doJk4yPwJDk) (3min) versus [Peaux from Pleiades by Iannis Xenakis](https://youtu.be/dqtFGaHcWRk?t=1923) (1min)
+* [Signing, Singing, Speaking: How Language Evolved](https://www.npr.org/templates/story/story.php?storyId=129155123)
+* [Why repeating words sound like music to your brain](https://www.theverge.com/2018/6/8/17443170/repeating-words-sound-to-song-auditory-illusion)
 
 ### Reference
 * [Diatonic Scale Interval Ratios](https://en.wikipedia.org/wiki/Interval_(music)#Size_of_intervals_used_in_different_tuning_systems)
-* [Chapter 7 of The Geometry of Musical Rhythm]()(Need to find link on NYU website)
 
 ### Tutorials and Code
 #### Generating Pitch and Rhythm
