@@ -13,6 +13,7 @@
 * [Linear v. Exp Progression of Brightness](https://editor.p5js.org/icm4.0/sketches/odxgnNuYs)
 * [Complementary Colors](https://editor.p5js.org/icm4.0/sketches/Xm4F9kwKi)
 * [Triadic Colors](https://editor.p5js.org/icm4.0/sketches/gBq79IWtw)
+* [Tetradic Colors](https://editor.p5js.org/icm4.0/sketches/ucut8DFyV) | [Visualization of Rectangle of Angles](https://editor.p5js.org/icm4.0/sketches/nNBavXsZj)
 * [Analogous Colors](https://editor.p5js.org/icm4.0/sketches/AY5ADqWuF)
 * [Monochrome](https://editor.p5js.org/icm4.0/sketches/X078yn_i8)
 * [Saturation](https://editor.p5js.org/icm4.0/sketches/I350DOnIs)
