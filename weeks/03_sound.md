@@ -9,6 +9,7 @@ Can we analyze our way to good music?
 * [The Science of Pop Music](https://www.dailymotion.com/video/x6fsdpg) | [Transcript](https://subsaga.com/bbc/documentaries/music/2017/the-secret-science-of-pop.html)
 
 #### Extra
+* [What is consciousness?](https://www.wnycstudios.org/podcasts/radiolab/segments/91503-the-unconscious-toscanini-of-the-brain)
 * [Problems with FFT](http://sites.music.columbia.edu/cmc/MusicAndComputers/chapter3/03_05.php)
 * [Measuring the Evolution of Contemporary Western Popular Music](https://www.nature.com/articles/srep00521): Abstract and Introduction
 
