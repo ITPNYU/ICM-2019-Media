@@ -16,7 +16,7 @@
 * [Analogous Colors](https://editor.p5js.org/icm4.0/sketches/AY5ADqWuF)
 * [Monochrome](https://editor.p5js.org/icm4.0/sketches/X078yn_i8)
 * [Saturation](https://editor.p5js.org/icm4.0/sketches/I350DOnIs)
-* [Are there 3 or 4 colors?](https://editor.p5js.org/icm4.0/sketches/4MpL1NJtd)
+* [Are there 2 or 3 colors?](https://editor.p5js.org/icm4.0/sketches/4MpL1NJtd)
 * [Rothko's Cat](https://editor.p5js.org/icm4.0/sketches/QhaSfqTDZ) | [Josef and The Amazing Technicolor Dreamcoat](https://editor.p5js.org/icm4.0/sketches/0dU1IiYo7)
 
 ### More Tutorials and Examples
