@@ -16,7 +16,7 @@ Can we analyze our way to good music?
 ### Video Tutorials
 #### Basics
 * [17.1: Loading and Playing sound - video tutorial](https://youtu.be/Pn1g1wjxl_0?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
-* [17.3: Timing, Jumps and Cues - video tutorial](https://youtu.be/SfA5CghXw18?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)  addCue() is [not working](https://github.com/processing/p5.js-sound/issues/371) as of 10/2019
+* [17.3: Timing, Jumps and Cues - video tutorial](https://youtu.be/SfA5CghXw18?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)  (Note: addCue() is [not working](https://github.com/processing/p5.js-sound/issues/371) as of 10/2019)
 * [17.4: Amplitude Analysis - video tutorial](https://youtu.be/NCCHQwNAN6Y?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
 * [17.8: Microphone Input - video tutorial](https://youtu.be/wUSva_BnedA?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
 #### Visualizations of Sound Data
