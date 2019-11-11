@@ -6,8 +6,7 @@
 To what extent can we deconstruct language and put it back together again?
 
 ### Readings
-* [A.I. Is Beginning to Assist Novelists?](https://www.nytimes.com/2018/10/18/technology/ai-is-beginning-to-assist-novelists.html)
-* [Computer-Generated Science Papers](http://news.mit.edu/2015/how-three-mit-students-fooled-scientific-journals-0414)
+* [Machines Beat Humans on a Reading Test. But Do They Understand?](https://www.quantamagazine.org/machines-beat-humans-on-a-reading-test-but-do-they-understand-20191017)
 
 ### Tutorials
 * [JavaScript String Object](https://www.youtube.com/watch?v=DcoAjEZYies&list=PLRqwX-V7Uu6aoeLx_mWfz6XwtFaD9SkVX&index=5)
