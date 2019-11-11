@@ -24,4 +24,4 @@
 * [SoundRecorder()](http://p5js.org/reference/#/p5.SoundRecorder) | [Record and Loop](https://editor.p5js.org/icm4.0/sketches/8-VXVgaJO)
 * [17.5: Adding Sound Effects - video tutorial](https://youtu.be/40Me1-yAtTc?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
 * [17.7: ADSR Envelope - video tutorial](https://youtu.be/wUSva_BnedA?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
-* [p5.js editor: Envelope](https://editor.p5js.org/p5/sketches/Hy4NekQ_X)
+* [p5.js editor: Envelope](https://editor.p5js.org/p5/sketches/Sound:_Note_Envelope)
