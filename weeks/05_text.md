@@ -14,7 +14,8 @@ To what extent can we deconstruct language and put it back together again?
 * [Introduction to Markov Chains and Ngrams](https://www.youtube.com/watch?v=v4kL0OHuxXs)
 
 ### Code
-* Basic String Manipulation | [Code](https://editor.p5js.org/icm4.0/sketches/cgHx2OeKd)
+* Displaying Strings | [Code](https://editor.p5js.org/icm4.0/sketches/dqWmqXO3-)
+* Random Text | [Code](https://editor.p5js.org/icm4.0/sketches/cgHx2OeKd)
 * Word Counting | [Code](https://editor.p5js.org/icm4.0/sketches/-mE9aOLiU)
 * Simple Markov Chain | [Explanation](https://medium.com/@alexkrameris/markov-chain-implementation-in-javascript-a698f371d66f) | [Code](https://editor.p5js.org/icm4.0/sketches/gqA1THrae)
 
