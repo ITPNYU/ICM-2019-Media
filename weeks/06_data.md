@@ -45,7 +45,7 @@
 * [Wikipedia API - video tutorial](https://youtu.be/RPz75gcHj18?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
 
 ### Data Sources
-* [Data Sources Wiki](https://github.com/ITPNYU/ICM-2019/wiki/Data-Sources) - please help organized and add to this list!
+* [Data Sources Wiki](https://github.com/ITPNYU/ICM-2019-Code/wiki/Data-Sources) - please help organized and add to this list!
 
 ### Written Tutorials
 * [Tutorial: loading external data with p5.js](https://github.com/processing/p5.js/wiki/Loading-external-files:-AJAX,-XML,-JSON)
